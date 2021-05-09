@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ndminhvn
 - 👀 I’m interested in coding, sport, and music.
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning Computer Science at University of Houston
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
 LinkedIn: https://www.linkedin.com/in/minh-nguyen-07a051212/
