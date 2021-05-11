@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science at University of Houston
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
-LinkedIn: https://www.linkedin.com/in/minh-nguyen-07a051212/
+LinkedIn: https://www.linkedin.com/in/ndminhvn/
 
 <!---
 ndminhvn/ndminhvn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
