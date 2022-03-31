@@ -2,7 +2,7 @@
 - I’m a junior Computer Science student at University of Houston.
 - I’m interested in coding, sport, and music.
 ## 📫 How to reach me :
-- Email (Preferred): vn.ndminh@gmail.com
+- Email: vn.ndminh@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ndminhvn/
 
 <!---
