@@ -5,7 +5,7 @@
 - Email: vn.ndminh@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ndminhvn/
 ## Stats
-![Minh Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndminhvn&hide=stars&count_private=trueshow_icons=true&theme=tokyonight&show_icons=true&count_private=true)
+![Minh Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndminhvn&count_private=trueshow_icons=true&theme=tokyonight&show_icons=true&count_private=true)
 
 [![Most Used Lanuages](https://github-readme-stats.vercel.app/api/top-langs/?username=ndminhvn&langs_count=9&layout=compact&hide=makefile)](https://github.com/anuraghazra/github-readme-stats)
 > Streak Stats
