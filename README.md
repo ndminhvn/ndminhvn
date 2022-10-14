@@ -1,9 +1,11 @@
 ## Hi there, I’m Minh Nguyen
 - I’m a junior Computer Science student at University of Houston.
-- I’m interested in Software and Web Development.
+- I’m seeking for an internship in the technology industry, particularly in Software and Web Development.
 ## How to reach me :
-- Email: vn.ndminh@gmail.com
-- LinkedIn: https://www.linkedin.com/in/ndminhvn/
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />](https://www.linkedin.com/in/ndminhvn/)
+
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:vn.ndminh@gmail.com)
+
 ## Stats
 ![Minh Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndminhvn&count_private=trueshow_icons=true&theme=tokyonight&show_icons=true&count_private=true)
 
