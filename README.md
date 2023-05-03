@@ -4,7 +4,7 @@
 ## How to reach me :
 <div align='center'>
   
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>](https://www.linkedin.com/in/ndminhvn/)
+  [<a href="https://www.linkedin.com/in/ndminhvn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>](https://www.linkedin.com/in/ndminhvn/)
   
   [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:vn.ndminh@gmail.com)
 </div>
