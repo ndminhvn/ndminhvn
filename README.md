@@ -2,8 +2,8 @@
 - I’m a Computer Science student at University of Houston - UH'24
 - I’m seeking for internship and full-time roles in the technology industry, particularly in Software and Web Development.
 ## How to reach me :
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>](https://www.linkedin.com/in/ndminhvn/)
-  
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener" />](https://www.linkedin.com/in/ndminhvn/)
+
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:vn.ndminh@gmail.com)
 
 ## Stats
