@@ -2,12 +2,9 @@
 - I’m a Computer Science student at University of Houston - UH'24
 - I’m seeking for internship and full-time roles in the technology industry, particularly in Software and Web Development.
 ## How to reach me :
-<div align='center'>
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>](https://www.linkedin.com/in/ndminhvn/)
   
-  [<a href="https://www.linkedin.com/in/ndminhvn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>](https://www.linkedin.com/in/ndminhvn/)
-  
-  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:vn.ndminh@gmail.com)
-</div>
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:vn.ndminh@gmail.com)
 
 ## Stats
 ![Minh Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndminhvn&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
