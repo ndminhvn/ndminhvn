@@ -7,7 +7,7 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:vn.ndminh@gmail.com)
 
 ## Stats
-![Minh Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndminhvn&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
+![Minh Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndminhvn&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile)
 
 - _Most Used Languages_
 
