@@ -1,5 +1,5 @@
 # <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"> I'm Minh Nguyen
-🔭 I’m a senior Computer Science student at the University of Houston - UH'24
+🔭 I’m a Computer Science student at the University of Houston - UH'24
 <br>
 🤝 I’m seeking full-time roles in the technology industry, particularly in Software Development.<br>
 <!---
