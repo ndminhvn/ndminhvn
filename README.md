@@ -1,7 +1,7 @@
 # <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"> I'm Minh Nguyen
-🔭 I’m a Computer Science student at the University of Houston - UH'24
+🔭 I’m a Computer Science Master student at the University of Houston - UH'26
 <br>
-🤝 I’m seeking full-time roles in the technology industry, particularly in Software Development.<br>
+🤝 I’m seeking internships and full-time roles in the technology industry, particularly in Software Development.<br>
 <!---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ndminhvn) 
