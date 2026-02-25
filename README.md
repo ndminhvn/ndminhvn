@@ -1,5 +1,5 @@
 # <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"> I'm Minh Nguyen
-🔭 I’m a Computer Science Master student at the University of Houston - UH'26
+🔭 I’m a Computer Science Master student at the University of Houston - UH'26 - working in the [I2C Lab](https://github.com/i2clab)
 <br>
 💻 I'm working on a research thesis on optimizing AI workloads in distributed infrastructure, cloud infrastructure management and tooling, AI DevOps, MLOps, AI agent standards/integration tools.
 <br>
